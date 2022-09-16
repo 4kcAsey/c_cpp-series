@@ -20,4 +20,3 @@ int main()
     printf("%d",b-a);
     return 0;
 }
-//2tw+4fw=w
