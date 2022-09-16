@@ -12,7 +12,6 @@ void Frequency(int arr[], int n)
     for (auto x : map)
         cout << x.first << " " << x.second << endl;
 }
- 
 int main()
 {
     int arr[] = {10,5,10,15,10,5};
