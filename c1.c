@@ -16,4 +16,3 @@ int main()
         printf("INVALID INPUT");
     return 0;
 }
-//2tw+4fw=w
